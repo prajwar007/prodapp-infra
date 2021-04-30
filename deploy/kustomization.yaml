@@ -13,4 +13,4 @@ images:
 
 replicas:
 - count: 4
-  name: gagan-nginx-deployment
+  name: pradeep-nginx-deployment
